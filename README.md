@@ -64,10 +64,13 @@ Security is at the core of Terrax:
 
 ---
 
-## 📣 Get Involved
+## 🤝 Contributing
 
-We welcome feedback, feature requests, and contributions.  
-Stay tuned for our roadmap and contribution guidelines!
+We welcome feedback, feature requests, and contributions of all kinds!
+
+If you're not sure where to start, check out the [issues](https://github.com/tictitan/TerraX-Cloud/issues) tab or [open a discussion](https://github.com/tictitan/TerraX-Cloud/discussions) to share your ideas.
+
+Thanks for helping improve Terrax!
 
 ---
 
